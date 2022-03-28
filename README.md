@@ -1,6 +1,6 @@
 ### Hi there I'm Olanrewaju 👋
 
-🌱 I’m currently learning Python, Node.js
+🌱 I’m currently learning Javascript, Node.js
 👯 I’m looking to collaborate on Backend Development using Node.js
 📫 How to reach me:
     Social Media
