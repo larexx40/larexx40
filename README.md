@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Backend development and contribute to open source
 - 📫 How to reach me:  
         <a target="_blank" href="https://twitter.com/LanreTunji1/">
-            <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+            <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
         <a target="_blank" href="https://www.linkedin.com/in/rokeebolatunji/">
             <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,7 +14,9 @@
         <a target="_blank" href="mailto:rokeeb.olatunji@gmail.com">
             <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
         </a>
+        <br/>
 - 😄 Pronouns: He/Him
+
 
 <br />
 
