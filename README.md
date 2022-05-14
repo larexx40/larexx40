@@ -1,17 +1,19 @@
 ## Hello World, I'm Olanrewaju 👋
 
-### I'm a self-taught coder with keen interest in Backend Development.
-- 🔭 I’m currently working through a course: The Odin Project 👩🏻‍💻
-- 🌱 I’m currently learning JavaScript, Node.js !
-- 👯 I’m looking to collaborate on Backend Development and contribute to open source
-- 📫 How to reach me: 
-      [Twiter](https://twitter.com/LanreTunji1/)  
-        <a target="_blank" href="https://www.linkedin.com/in/rokeebolatunji/">
-        <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### I'm a self-taught programmer with keen interest in Backend Development.
+- 🔭 I’m currently working on Backend roadmap 👩🏻‍💻
+- 🌱 I’m currently learning JavaScript, Node.js and Backend development!
+- 👯 I’m looking to collaborate on Backend development and contribute to open source
+- 📫 How to reach me:  
+        <a target="_blank" href="https://twitter.com/LanreTunji1/">
+            <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
         </a>
-      <a target="_blank" href="mailto:rokeeb.olatunji@gmail.com">
-        <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-      </a>
+        <a target="_blank" href="https://www.linkedin.com/in/rokeebolatunji/">
+            <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        </a>
+        <a target="_blank" href="mailto:rokeeb.olatunji@gmail.com">
+            <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+        </a>
 - 😄 Pronouns: He/Him
 
 <br />
